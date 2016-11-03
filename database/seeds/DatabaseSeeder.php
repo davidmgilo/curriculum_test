@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
+use Scool\Curriculum\Database\Seeds\CurriculumSeeder;
 
 class DatabaseSeeder extends Seeder
 {

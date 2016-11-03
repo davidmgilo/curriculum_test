@@ -1373,7 +1373,7 @@
             "dist": {
                 "type": "path",
                 "url": "/home/alumne/Code/scool/curriculum",
-                "reference": "93d0f37c7ad078bf69135604f99008ce74586176",
+                "reference": "bc9fe06cff4f40f6b13f83fee77a2834cc518ade",
                 "shasum": null
             },
             "require": {
