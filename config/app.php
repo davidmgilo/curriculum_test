@@ -1,5 +1,6 @@
 <?php
 
+
 return [
 
     /*
@@ -166,7 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Scool\Curriculum\Providers\CurriculumServiceProvider::class,
         //
 
         /*
@@ -187,6 +188,8 @@ return [
         Barryvdh\Debugbar\ServiceProvider::class,
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
         #llum_providers
+
+
 
     ],
 
